@@ -1,8 +1,9 @@
 # Supported Devices
 
 ## Dreame
-| Name                                         | Model  |
-|----------------------------------------------|--------|
+
+| Name                                         | Model                |
+| -------------------------------------------- | -------------------- |
 | Aqua 10 Pro Track                            | dreame.vacuum.r2527b |
 | Aqua 10 Pro Track                            | dreame.vacuum.r2527j |
 | Aqua 10 Pro Track                            | dreame.vacuum.r2527t |
@@ -317,8 +318,9 @@
 | 澄净 Pro (Ultra-Thin embedded)               | dreame.vacuum.r5117  |
 
 ## MOVA
-| Name                      | Model  |
-|---------------------------|--------|
+
+| Name                      | Model                |
+| ------------------------- | -------------------- |
 | 10 Robot Vacuum and Mop   | dreame.vacuum.r2388  |
 | E10                       | dreame.vacuum.r2438a |
 | E10                       | dreame.vacuum.r2438b |
@@ -368,11 +370,13 @@
 | Z50 Ultra                 | mova.vacuum.r2430u   |
 | Z500                      | dreame.vacuum.p2156o |
 | Z60 Ultra Roller Complete | mova.vacuum.r9540n   |
-| 免洗10                    | dreame.vacuum.r2386  |
+| Z60 Ultra Roller Complete | mova.vacuum.r9540h   |
+| 免洗 10                   | dreame.vacuum.r2386  |
 
 ## Mijia
-| Name                               | Model  |
-|------------------------------------|--------|
+
+| Name                               | Model                |
+| ---------------------------------- | -------------------- |
 | 1S                                 | dreame.vacuum.r2254  |
 | 1T                                 | dreame.vacuum.p2041  |
 | 2C                                 | dreame.vacuum.p2140  |
@@ -398,55 +402,56 @@
 | X20+                               | xiaomi.vacuum.c102gl |
 
 ## TROUVER
-| Name	    | Model  |
-|-------------|--------|
-| E10         | dreame.vacuum.r2438r |
-| E30 Ultra   | dreame.vacuum.r2427c |
-| E30 Ultra   | dreame.vacuum.r2427r |
-| LDS Finder  | dreame.vacuum.p2036  |
-| M1          | dreame.vacuum.r2380r |
-| S10         | dreame.vacuum.r2382r |
 
+| Name       | Model                |
+| ---------- | -------------------- |
+| E10        | dreame.vacuum.r2438r |
+| E30 Ultra  | dreame.vacuum.r2427c |
+| E30 Ultra  | dreame.vacuum.r2427r |
+| LDS Finder | dreame.vacuum.p2036  |
+| M1         | dreame.vacuum.r2380r |
+| S10        | dreame.vacuum.r2382r |
 
 # Unsupported Devices
-| Name	                                  | Model  |
-|-------------------------------------------|--------|
-| 1C                                        | dreame.vacuum.ma1808 |
-| 1C                                        | dreame.vacuum.md1808 |
-| 2C                                        | dreame.vacuum.mb1808 |
-| 2C                                        | dreame.vacuum.mc1808 |
-| 3C                                        | ijai.vacuum.v18      |
-| 3C (Enhanced)                             | xiaomi.vacuum.c103   |
-| E10                                       | xiaomi.vacuum.b112   |
-| E10C                                      | xiaomi.vacuum.b112bk |
-| E12                                       | xiaomi.vacuum.b112gl |
-| E5                                        | xiaomi.vacuum.c108   |
-| H40                                       | xiaomi.vacuum.d101   |
-| H40                                       | xiaomi.vacuum.ov51gl |
-| M1                                        | ijai.vacuum.v14      |
-| M30                                       | xiaomi.vacuum.d102   |
-| M30                                       | xiaomi.vacuum.d102cn |
-| M30                                       | xiaomi.vacuum.d102ev |
-| M30 Pro                                   | xiaomi.vacuum.c107   |
-| M40 S                                     | xiaomi.vacuum.ov31cn |
-| S10                                       | ijai.vacuum.v17      |
-| S10T                                      | szkj.vacuum.fc01eu   |
-| S12                                       | xiaomi.vacuum.b106eu |
-| S20                                       | xiaomi.vacuum.d106gl |
-| S20+                                      | xiaomi.vacuum.b108gl |
-| S30                                       | deerma.vacuum.a2403  |
-| T12                                       | xiaomi.vacuum.b106bk |
-| Vacuum-Mop 2                              | ijai.vacuum.v2       |
-| Vacuum-Mop 2 Lite                         | ijai.vacuum.v10      |
-| Vacuum-Mop 2 Pro                          | ijai.vacuum.v13      |
-| Vacuum-Mop 2 Pro                          | ijai.vacuum.v15      |
-| Vacuum-Mop 2 Pro                          | ijai.vacuum.v3       |
-| Vacuum-Mop 2S                             | ijai.vacuum.v19      |
-| Vacuum-Mop 2i                             | ijai.vacuum.v16      |
-| Vacuum-Mop Pro                            | ijai.vacuum.v1       |
-| X20                                       | xiaomi.vacuum.c101eu |
-| X20 Max                                   | xiaomi.vacuum.d109gl |
-| X20 Pro                                   | xiaomi.vacuum.d102gl |
-| X70                                       | deerma.vacuum.a2404  |
-| 人 2                                      | xiaomi.vacuum.c101   |
-| 人 3                                      | xiaomi.vacuum.c104   |
+
+| Name              | Model                |
+| ----------------- | -------------------- |
+| 1C                | dreame.vacuum.ma1808 |
+| 1C                | dreame.vacuum.md1808 |
+| 2C                | dreame.vacuum.mb1808 |
+| 2C                | dreame.vacuum.mc1808 |
+| 3C                | ijai.vacuum.v18      |
+| 3C (Enhanced)     | xiaomi.vacuum.c103   |
+| E10               | xiaomi.vacuum.b112   |
+| E10C              | xiaomi.vacuum.b112bk |
+| E12               | xiaomi.vacuum.b112gl |
+| E5                | xiaomi.vacuum.c108   |
+| H40               | xiaomi.vacuum.d101   |
+| H40               | xiaomi.vacuum.ov51gl |
+| M1                | ijai.vacuum.v14      |
+| M30               | xiaomi.vacuum.d102   |
+| M30               | xiaomi.vacuum.d102cn |
+| M30               | xiaomi.vacuum.d102ev |
+| M30 Pro           | xiaomi.vacuum.c107   |
+| M40 S             | xiaomi.vacuum.ov31cn |
+| S10               | ijai.vacuum.v17      |
+| S10T              | szkj.vacuum.fc01eu   |
+| S12               | xiaomi.vacuum.b106eu |
+| S20               | xiaomi.vacuum.d106gl |
+| S20+              | xiaomi.vacuum.b108gl |
+| S30               | deerma.vacuum.a2403  |
+| T12               | xiaomi.vacuum.b106bk |
+| Vacuum-Mop 2      | ijai.vacuum.v2       |
+| Vacuum-Mop 2 Lite | ijai.vacuum.v10      |
+| Vacuum-Mop 2 Pro  | ijai.vacuum.v13      |
+| Vacuum-Mop 2 Pro  | ijai.vacuum.v15      |
+| Vacuum-Mop 2 Pro  | ijai.vacuum.v3       |
+| Vacuum-Mop 2S     | ijai.vacuum.v19      |
+| Vacuum-Mop 2i     | ijai.vacuum.v16      |
+| Vacuum-Mop Pro    | ijai.vacuum.v1       |
+| X20               | xiaomi.vacuum.c101eu |
+| X20 Max           | xiaomi.vacuum.d109gl |
+| X20 Pro           | xiaomi.vacuum.d102gl |
+| X70               | deerma.vacuum.a2404  |
+| 人 2              | xiaomi.vacuum.c101   |
+| 人 3              | xiaomi.vacuum.c104   |

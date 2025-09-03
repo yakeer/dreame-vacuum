@@ -654,6 +654,13 @@ class DreameVacuumFlowHandler(ConfigFlow, domain=DOMAIN):
                         f"{"xiaomi" if info[0] == 1 else ACCOUNT_TYPE_MOVA if info[0] == 2 else ACCOUNT_TYPE_DREAME}.vacuum.{k}"
                     ] = info[1]
 
+            # Add support for mova.vacuum.r9540h with same capabilities as r9540n
+            if "r9540n" in device_info[3]:
+                capability_index = device_info[3]["r9540n"]
+                info = device_info[0][capability_index]
+                if info and info[0] == 2:  # MOVA account type
+                    self.models[f"{ACCOUNT_TYPE_MOVA}.vacuum.r9540h"] = info[1]
+
     @property
     def login_schema(self):
         if self.reauth:
